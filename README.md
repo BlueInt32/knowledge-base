@@ -1,24 +1,4 @@
 Bienvenue dans la knowledge-base !
 
-[[wiki/Programmation orientée objet]]
+[[Vous trouverez le sommaire du wiki ici !]](/BlueInt32/knowledge-base/wiki)
 
-[[Architecture]]
-
-[[C&#35; / .NET]]
-- [[Language C&#35;]]
-- [[LINQ]]
-
-[[ASP.NET Webforms/MVC]]
-- [[MVC]]
-- [[Webforms]]
-
-FRONT-END
-- [[HTTP]]
-- [[JQUERY]]
-- [[ANGULARJS]]
-- [[HTML / CSS]]
-
-[[SQL SERVER]]
-
-
-[[Méthodologie]]
