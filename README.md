@@ -1,6 +1,6 @@
 Bienvenue dans la knowledge-base !
 
-[[Programmation orientée objet]]
+[[wiki/Programmation orientée objet]]
 
 [[Architecture]]
 
