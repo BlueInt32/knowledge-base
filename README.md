@@ -5,3 +5,6 @@ J'ai mis ici les questions auxquelles j'ai été confronté pendant les divers e
 Dans chaque section, j'ai essayé de classer les questions par ordre de difficulté croissante.
 
 [Par ici les questions !](../../wiki)
+
+Liens externes sympas également : 
+- [webdevelopmenthelp.net](http://www.webdevelopmenthelp.net/category/interview-questions)
