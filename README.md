@@ -7,4 +7,5 @@ Dans chaque section, j'ai essayé de classer les questions par ordre de difficul
 [Par ici les questions !](../../wiki)
 
 Liens externes sympas également : 
-- [webdevelopmenthelp.net](http://www.webdevelopmenthelp.net/category/interview-questions)
+- [webdevelopmenthelp.net](http://www.webdevelopmenthelp.net/category/interview-questions) orienté ASP.NET
+- [ngExam](https://github.com/gdi2290/ngExam) pleins de questions sur AngularJS classées par difficulté
