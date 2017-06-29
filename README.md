@@ -9,3 +9,4 @@ Dans chaque section, j'ai essayé de classer les questions par ordre de difficul
 Liens externes sympas également : 
 - [webdevelopmenthelp.net](http://www.webdevelopmenthelp.net/category/interview-questions) ASP.NET et HTML5
 - [ngExam](https://github.com/gdi2290/ngExam) pleins de questions sur AngularJS classées par difficulté
+- [PerformanceJS](https://performancejs.com/post/hde6d32/Best-List-of-Frontend-JavaScript-Interview-Questions-(by-a-Frontend-Engineer))
